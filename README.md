@@ -3,9 +3,7 @@ Start page for your environment
 
 - My First ToyPorject (2018-02-01~)
 
-...
 Spec)
-
 - html5
 - css3
 - vanilla js
@@ -17,4 +15,6 @@ Spec)
 - mysql
 - maven
 - git
+- jenkins
 - sonarqube
+- tomcat
