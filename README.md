@@ -1,7 +1,9 @@
-# StartPage
-Start page for your environment
+# Browser start page
 
-- My First ToyPorject (2018-02-01~)
+My First ToyPorject (2018-02-01~)
+- Start page for Your browser
+- Modify to your liking
+- Register your favorites
 
 Spec)
 - html5
