@@ -1,6 +1,8 @@
 # Browser start page
 
-My First ToyPorject (2018-02-01~)
+## Planning stage (2018-02-08~)
+
+My First ToyPorject
 - Start page for Your browser
 - Modify to your liking
 - Register your favorites
@@ -9,14 +11,15 @@ Spec)
 - html5
 - css3
 - vanilla js
-- (react)
+- react.js
 - jsp/servelt
-- java
+- java 1.8
 - springboot
 - mybatis
 - mysql
-- maven
+- Gradle
+- tomcat
 - git
+
 - jenkins
 - sonarqube
-- tomcat
