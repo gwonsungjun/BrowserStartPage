@@ -8,21 +8,32 @@ My First ToyPorject
 
 ### 예상 Spec)
 
+Front-End
 - html5
 - css3
 - vanilla js
-- (react.js or view.js 고민중..)
-- jsp/servelt
+- (react.js or vue.js 고민중..)
+
+Back-End
+- jsp
 - java 8
 - springboot 1.5.9
-- JPA
-- mysql
-- Gradle
-- git
+- Hibernate
 - Nginx
+- Gradle
+
+Database
+- Mysql
+
+Infra
 - AWS EC2
-- Travis CI & AWS CodeDeploy
-- sonarqube
+- Travis CI
+
+Etc
+- Git / Github
+- Sonar
+- GoogleApps
+- Staruml
 
 ### Development environment)
 - IDE : IntelliJ IDEA Ultimate
