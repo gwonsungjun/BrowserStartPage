@@ -5,11 +5,13 @@ My First ToyPorject
 - Modify to your liking
 - Register your favorites
 
-### expectation Spec)
+
+### 예상 Spec)
+
 - html5
 - css3
 - vanilla js
-- (react.js)
+- (react.js or view.js 고민중..)
 - jsp/servelt
 - java 8
 - springboot 1.5.9
@@ -25,8 +27,8 @@ My First ToyPorject
 ### Development environment)
 - IDE : IntelliJ IDEA Ultimate
 - Editor : VSCdoe
-- git Tools :
-- OS : Ubuntu
+- git Tools : Source Tree
+- OS : Ubuntu, Windows 10 Home
 
 
 
