@@ -1,12 +1,23 @@
 # Browser start page, At a glance
 
 My First ToyPorject
+
+Browser start page는 무엇인가?
+
 - Start page for Your browser
 - Modify to your liking
 - Register your favorites
 
 
-### 예상 Spec)
+왜 개발하는가?
+
+컨셉
+
+현재상태
+
+앞으로의 계획
+
+### 예상 기술 스펙)
 
 Front-End
 - html5
@@ -35,8 +46,8 @@ Etc
 - GoogleApps
 - Staruml
 
-### Development environment)
-- IDE : IntelliJ IDEA Ultimate
+### 개발환경)
+- IDE : IntelliJ IDEA Ultimate, eclipse ?....
 - Editor : VSCdoe
 - git Tools : Source Tree
 - OS : Ubuntu, Windows 10 Home
