@@ -1,57 +1,57 @@
-# Browser start page, At a glance
+# Browser start page (브라우저 시작 페이지)
 
-My First ToyPorject
+- ToyPorject
 
-Browser start page는 무엇인가?
+### Browser start page는 무엇인가?
 
 - Start page for Your browser
 - Modify to your liking
 - Register your favorites
 
+### 왜 개발하는가?
+- 두고두고 보고 싶은 페이지들을 즐겨찾기에만 모아 두다 보니 너무 복잡해져서 브라우저 첫 시작 페이지에서 한 번에 나열해서 보여주면 좋겠다는 생각을 해서 개발을 시작하게 되었다.
+- 그리고 아래 기술 스펙을 보면 시작 페이지 하나 만드는데 너무 많은 기술을 나열했다고 생각할 수 있으나, 예전부터 한 번 사용해보고 싶은 기술들을 다 사용해보기 위함이다.
 
-왜 개발하는가?
+### 컨셉
+- Simple & fresh & Easy to use
 
-컨셉
+### 현재상태
+- 요구사항 정립 단계
 
-현재상태
+### 앞으로의 계획
+- 설계
+- 환경 설정 후 개발 시작.
 
-앞으로의 계획
+### 기술 스펙
 
-### 예상 기술 스펙)
-
-Front-End
+**Front-End**
 - html5
 - css3
 - vanilla js
-- (react.js or vue.js 고민중..)
+- react.js
 
-Back-End
+**Back-End**
 - jsp
 - java 8
 - springboot 1.5.9
 - Hibernate
-- Nginx
 - Gradle
+- Nginx
 
-Database
+**Database**
 - Mysql
 
-Infra
+**Etc**
 - AWS EC2
 - Travis CI
-
-Etc
 - Git / Github
 - Sonar
-- GoogleApps
+- Trello
+- GoogleApps(G Drive, G Analytics)
 - Staruml
 
-### 개발환경)
-- IDE : IntelliJ IDEA Ultimate, eclipse ?....
+### 개발환경
+- IDE : IntelliJ IDEA Ultimate
 - Editor : VSCdoe
 - git Tools : Source Tree
 - OS : Ubuntu, Windows 10 Home
-
-
-
-## Planning stage (ing)
