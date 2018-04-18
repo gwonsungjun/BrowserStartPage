@@ -1,6 +1,6 @@
 # Browser start page (브라우저 시작 페이지)
 
-- ToyPorject
+- ToyProject
 
 ### Browser start page는 무엇인가?
 
