@@ -26,9 +26,10 @@
 - html5
 - css3
 - vanilla js
+- React
 
 **Back-End**
-- jsp
+- Thymeleaf
 - java 8
 - springboot 2.0
 - JPA
@@ -50,6 +51,6 @@
 
 ### 개발환경
 - IDE : IntelliJ IDEA Ultimate
-- Editor : VSCdoe
+- Editor : VSCode
 - git Tools : Source Tree
 - OS : Ubuntu, Windows 10 Home
