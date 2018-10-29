@@ -23,10 +23,10 @@
 ### 기술 스펙
 
 **Front-End**
-- html5
-- css3
+- html5/pug
+- css3/sass
 - vanilla js
-- React
+- Vue.js
 
 **Back-End**
 - Thymeleaf
@@ -52,5 +52,5 @@
 ### 개발환경
 - IDE : IntelliJ IDEA Ultimate
 - Editor : VSCode
-- git Tools : Source Tree
+- git Tools : Source Tree || Git kraken
 - OS : Ubuntu, Windows 10 Home
