@@ -54,5 +54,5 @@
 ### 개발환경
 - IDE : IntelliJ IDEA Ultimate
 - Editor : VSCode
-- git Tools : Terminal || Source Tree || Git kraken
+- git Tools : cli || Git kraken
 - OS : Mac OS
