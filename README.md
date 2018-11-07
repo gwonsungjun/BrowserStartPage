@@ -46,6 +46,7 @@
 - Travis CI
 - Git / Github
 - GoogleApps(G Drive, G Analytics)
+- Trello, Slack
 
 ### 예정
 - Sonar
