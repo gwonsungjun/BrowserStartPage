@@ -1,5 +1,6 @@
 # Browser start page (브라우저 시작 페이지)
 - ToyProject
+- 개발인원: 2명 (Front-End 1, Back-End 1)
 
 ## What is Browser start page ?
 - Start page for Your browser
